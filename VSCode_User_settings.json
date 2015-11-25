@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.fontFamily": "Ubuntu Mono",
+	"editor.fontSize": 16,
+	"editor.tabSize": 4,
+	"editor.lineNumbers": true,
+	"editor.insertSpaces": true,
+	"editor.glyphMargin": true,
+    "files.trimTrailingWhitespace": true
+ }
