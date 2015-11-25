@@ -1,0 +1,5 @@
+alias dir='ll'
+alias pu='rm -rf *~; rm -rf .*~'
+alias cls='clear'
+alias del='rm'
+alias se='subl'

@@ -1,0 +1,32 @@
+# GEANT4
+source /opt/Geant/v4.10.01.p02/bin/geant4.sh
+
+###############################
+# EGSnrc environment settings #
+###############################
+export EGS_CONFIG=/home/kriol/HEN_HOUSE/specs/x86_64-unknown-linux-gnu.conf
+export EGS_HOME=/home/kriol/egsnrc_mp/
+export LD_LIBRARY_PATH=/home/kriol/HEN_HOUSE/egs++/dso/linux64:$LD_LIBRARY_PATH
+. /home/kriol/HEN_HOUSE/scripts/egsnrc_bashrc_additions
+#
+# BEAMnrc environment settings
+#
+. /home/kriol/HEN_HOUSE/scripts/beamnrc_bashrc_additions
+
+# xz
+export XZ_OPT=-9e
+
+# Pyhton
+export PYTHONPATH=/home/kriol/Documents/EGS/runEGS/XcIO:/home/kriol/Documents/EGS/runEGS/XcMath:/home/kriol/Documents/EGS/runEGS/XcMCCore:/home/kriol/Documents/EGS/runEGS/XcDefinitions
+
+# VSCode
+export PATH=/opt/VSCode-linux-x64:$PATH
+
+# Clion
+export PATH=/opt/clion-1.2.1/bin:$PATH
+
+# PyCharm
+export PATH=/opt/pycharm-5.0.1/bin:$PATH
+
+# Jupyter
+export PATH=~/.local/bin:$PATH
