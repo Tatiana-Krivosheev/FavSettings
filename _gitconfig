@@ -1,0 +1,7 @@
+[user]
+	name = Nobody
+	email = Nobody@nowhere.to.go
+[diff]
+	algorithm = histogram
+[push]
+	default = simple
