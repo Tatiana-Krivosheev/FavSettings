@@ -1,0 +1,12 @@
+[user]
+	name = TK
+	email = tk@kremlin.gov
+[diff]
+	algorithm = histogram
+[core]
+	editor = Code
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
