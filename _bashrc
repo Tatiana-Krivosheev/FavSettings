@@ -1,3 +1,6 @@
+# Terminal colors
+# #2A2651 #55CBD8
+
 # GEANT4
 source /opt/Geant/v4.10.01.p02/bin/geant4.sh
 
