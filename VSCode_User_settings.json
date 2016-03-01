@@ -1,14 +1,18 @@
 // Place your settings in this file to overwrite the default settings
 {
-	"editor.fontFamily": "Source Code Pro",
-	"editor.fontSize": 16,
+	"editor.fontFamily": "Ubuntu Mono",
+	"editor.fontSize": 18,
 	"editor.tabSize": 4,
+	"editor.lineHeight": 21,
 	"editor.lineNumbers": true,
 	"editor.insertSpaces": true,
 	"editor.glyphMargin": true,
+	"editor.fontLigatures": false,
+	"editor.renderWhitespace": true,
 	"files.trimTrailingWhitespace": true,
 	"editor.cursorStyle": "line",
 	"editor.cursorBlinking": "visible",
+	"window.openFilesInNewWindow": false,
 	"files.exclude": {
 		"**/.git": true,
 		"**/.DS_Store": true,
