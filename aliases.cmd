@@ -9,6 +9,7 @@ DOSKEY ll=dir $*
 DOSKEY cp=copy $*
 DOSKEY mv=move $*
 DOSKEY rm=del $*
+DOSKEY cat=type $*
 
 DOSKEY clear=cls
 
